@@ -12,7 +12,7 @@
 
 ## 部署教程
 
-待发布
+https://blog.misaka.rest/2023/08/07/webapp-xray/
 
 ## 鸣谢
 
